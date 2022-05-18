@@ -1,0 +1,22 @@
+
+
+.navbar {
+    margin-bottom: 40px;
+}
+
+.card-content p {
+    
+    text-align: justify;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.media-content p {
+    text-align: center;
+}
+
+.media-content span {
+    margin-bottom: 10px;
+}
